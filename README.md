@@ -7,7 +7,7 @@ Making cloud coding as simple as one command:
 
 Write your code with friends in Google Docs 
 
-![Google Docs](https://raw.github.com/faridani/pyDoc/master/images/code.PNG)
+![Google Docs](https://raw.github.com/faridani/pyDoc/master/images/code2.PNG)
 
 run that seamlessly on your local machine without worrying about syncing with the Google server
 
