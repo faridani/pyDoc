@@ -11,7 +11,7 @@ Prerequisites
 =============
 Make a google document like [this](https://docs.google.com/document/d/1vhPW2O35duAQWuF78b306_5gsPBjq7Jiygdt9U-iIdc/edit?usp=sharing). Note down the Document ID that appears in the url 
     
-https://docs.google.com/document/d/*1vhPW2O35duAQWuF78b306_5gsPBjq7Jiygdt9U-iIdc*/edit
+https://docs.google.com/document/d/ *1vhPW2O35duAQWuF78b306_5gsPBjq7Jiygdt9U-iIdc* /edit
 
 For easier coding go to tools>prefrences and turn off all options. Also from the fonts use "Consolas"
 
