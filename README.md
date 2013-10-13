@@ -2,18 +2,17 @@ pyDoc: Collaborative Python Coding Using Google Doc
 =====
 Making cloud coding as simple as typing: 
 
-    'python pydoc yourgoogledoc'
+    On Windows: run.bat
+    On Mac/Linux: bash run.bat
 
 
 
 Prerequisites
 =============
-If you don't have the you will need to install Python and [easy_install](https://pypi.python.org/pypi/setuptools)
+Make a google document like [this](https://docs.google.com/document/d/1vhPW2O35duAQWuF78b306_5gsPBjq7Jiygdt9U-iIdc/edit?usp=sharing)
 
-You will need to install the google command line tool using python `easy_install`.  It is important to use version 2.0.14 as there is [an unresolved issue with 2.0.15](http://code.google.com/p/googlecl/issues/detail?id=449).
+For easier coding go to tools>prefrences and turn off all options. Also from the fonts use "Consolas"
 
-    $ easy_install googlecl
-    $ easy_install http://gdata-python-client.googlecode.com/files/gdata-2.0.18.zip
 
 Usage
 =====
