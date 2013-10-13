@@ -1,5 +1,7 @@
-pyDoc
+pyDoc: 
 =====
+Making cloud coding as simple as a 'python pydoc yourgoogledoc'
+
 
 Collaborative Python Coding Using Google Doc
 
