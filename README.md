@@ -1,4 +1,4 @@
-pyDoc: Collaborative Python Coding Using Google Doc
+pyDoc: Simple Collaborative Python Coding Using Google Doc
 =====
 Making cloud coding as simple as typing: 
 
